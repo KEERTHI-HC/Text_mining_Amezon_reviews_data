@@ -1,1 +1,1 @@
-# Text_mining_Amezon_reviews_data
+# Text_mining_IMDB
